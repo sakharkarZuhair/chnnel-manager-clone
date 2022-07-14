@@ -1,9 +1,8 @@
-import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import { HiOutlineMail } from "react-icons/hi";
-function NavBar() {
+function NavBarScreen() {
   return (
     <Navbar
       collapseOnSelect
@@ -64,4 +63,4 @@ function NavBar() {
   );
 }
 
-export default NavBar;
+export default NavBarScreen;
