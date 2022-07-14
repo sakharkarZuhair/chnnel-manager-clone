@@ -40,7 +40,7 @@ function NavBar() {
           <Nav.Link eventKey={2} href="#">
             <HiOutlineMail
               style={{
-                fontSize: "21px",
+                fontSize: "20px",
                 marginTop: "-5px",
                 marginRight: "-10px",
               }}
